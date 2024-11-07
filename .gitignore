@@ -1,0 +1,25 @@
+# ignore PDF files
+*.pdf
+
+# ignore auxiliary files created by pdfLaTeX
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+
+# ignore auxiliary files created by Biber
+*.bcf
+*.xml
+
+# ignore auxiliary files created by BibTeX
+*.bbl
+*.blg
+
+# ignore Emacs auxiliary files
+*~
+.#*
+
+# ignore Emacs auxiliary directories
+auto/
